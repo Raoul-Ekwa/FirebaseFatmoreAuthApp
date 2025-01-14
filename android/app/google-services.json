@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427034051621",
+    "project_id": "react-native-dream-9991f",
+    "storage_bucket": "react-native-dream-9991f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427034051621:android:501ac5aa53b89d3be36bcc",
+        "android_client_info": {
+          "package_name": "com.firebasedreamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KRowaFD4IjJQyz_m5wzWiguN9ba-F8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
